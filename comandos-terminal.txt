@@ -1,0 +1,35 @@
+1. Verifiqué mi ubicación actual
+   pwd
+
+2. Listé las carpetas disponibles:
+   dir
+
+3. Entré a OneDrive donde estaba el escritorio y luego entre a mi carpeta donde coloco todas la actividades:
+   C:OneDrive\Escritorio\PPP_MERARI_botello_meza
+
+4. Verifiqué el contenido del proyecto:
+   dir
+
+5. Creé la carpeta de la semana2:
+   mkdir Semana2
+
+6. Entré a la carpeta creada:
+   cd Semana2
+
+7. Creé los archivos necesarios:
+   type nul > preguntas-semana2.txt
+   type nul > comandos-terminal.txt
+   type nul > reflexion-semana2.txt
+
+   Nota importante: No utilicé el comando touch porque en la terminal de Windows (CMD) no está disponible. 
+   Por eso usé el comando type nul >, que permite crear archivos vacíos de manera equivalente.
+
+8. Verifiqué que todo se creó correctamente:
+    dir
+
+9. utilize abri directamente el archivo en cmd
+    notepad
+
+10. verifique que el contenido se guardo correctamente con
+    type
+
