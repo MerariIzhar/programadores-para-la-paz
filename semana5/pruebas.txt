@@ -1,0 +1,8 @@
+http://localhost:3000
+En esta ruta se verifica que el servidor está funcionando correctamente. Al acceder, se confirma la conexión inicial del sistema.
+
+http://localhost:3000/saludo
+En esta ruta el servidor responde con un mensaje de saludo hacia la comunidad, mostrando una respuesta básica definida en la aplicación.
+
+http://localhost:3000/mensaje/juan
+En esta ruta se utiliza un parámetro en la URL. El servidor recibe el nombre “juan” y lo incluye en la respuesta, generando un mensaje personalizado de salida.
